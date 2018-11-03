@@ -8,4 +8,4 @@ The code was executed on Mac OS X, Ubuntu System.
 The results parsed from the website are stored in MSSQL Server 2017 database.
 
 Before executing the code, you need to execute the webscraper.sql file to create the Db Schema.
-Then you need to pass username, password, server name and database name necessary for MS SQL Server while executing webscraper.py as command line arguments "python3 webscraper.py <username> <server name> <password> <database name>".
+Then you need to pass username, password, server name and database name necessary for MS SQL Server while executing webscraper.py as command line arguments "python3 webscraper.py username server_name password database name".
